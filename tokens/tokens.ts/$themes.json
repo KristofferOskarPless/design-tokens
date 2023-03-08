@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "e11ef02a99e4cdb419fab41f45e87ae4fa701c32",
+    "name": "Template",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "theme": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
