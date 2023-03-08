@@ -4,7 +4,8 @@
     "name": "Template",
     "selectedTokenSets": {
       "core": "enabled",
-      "theme": "enabled"
+      "theme": "enabled",
+      "new theme": "disabled"
     },
     "$figmaStyleReferences": {}
   }
