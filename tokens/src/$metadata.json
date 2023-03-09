@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "core",
-    "theme",
-    "new theme"
+    "theme"
   ]
 }

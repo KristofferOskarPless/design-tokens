@@ -929,24 +929,20 @@
     "value": "100",
     "type": "borderRadius"
   },
-  "border-width-0": {
-    "value": "0",
-    "type": "borderWidth"
+  "roboto": {
+    "value": "Roboto, SF Pro, Source Sans 3, Open Sans",
+    "type": "fontFamilies"
   },
-  "border-width-1": {
-    "value": "1",
-    "type": "borderWidth"
+  "proxima-nova": {
+    "value": "Proxima Nova, SF Pro, Source Sans 3, Open Sans",
+    "type": "fontFamilies"
   },
-  "border-width-2": {
-    "value": "2",
-    "type": "borderWidth"
+  "sf-pro": {
+    "value": "SF Pro, Proxima Nova, Source Sans 3, Open Sans",
+    "type": "fontFamilies"
   },
-  "border-width-3": {
-    "value": "4",
-    "type": "borderWidth"
-  },
-  "border-width-4": {
-    "value": "6",
-    "type": "borderWidth"
+  "baskerville": {
+    "value": "Baskerville, Proxima Nova, Source Sans 3, Open Sans",
+    "type": "fontFamilies"
   }
 }
