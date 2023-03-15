@@ -1,11 +1,11 @@
 {
   "source": ["src/core.json"],
   "platforms": {
-    "scss": {
-      "transformGroup": "scss",
+    "css": {
+      "transformGroup": "css",
       "buildPath": "./src/style-dictionary-dist/",
       "files": [{
-        "destination": "core.scss",
+        "destination": "theme.css",
         "format": "scss/variables"
       }]
     },
@@ -13,12 +13,8 @@
       "transformGroup": "js",
       "buildPath": "./src/style-dictionary-dist/",
       "files": [{
-        "destination": "core.js",
+        "destination": "theme.js",
         "format": "javascript/es6"
-      },
-      { 
-        "format": "typescript/es6-declarations", 
-        "destination": "core.d.ts"
       }]
     }
   }
