@@ -1,11 +1,11 @@
 {
-  "source": ["src/core.json"],
+  "source": ["src/sd-input.json"],
   "platforms": {
     "css": {
       "transformGroup": "css",
       "buildPath": "./src/style-dictionary-dist/",
       "files": [{
-        "destination": "theme.css",
+        "destination": "variables.css",
         "format": "scss/variables"
       }]
     },
@@ -13,7 +13,7 @@
       "transformGroup": "js",
       "buildPath": "./src/style-dictionary-dist/",
       "files": [{
-        "destination": "theme.js",
+        "destination": "variables.js",
         "format": "javascript/es6"
       }]
     }
