@@ -34,7 +34,7 @@ const Card = styled.div({
   height: 'Auto',
   borderRadius: tokens.SemanticBorderRadiusUiCard,
   boxShadow: '0px 4px 8px 0px #00000012',
-  padding: '1rem 1.5rem 2rem 1.5rem',
+  padding: '1rem 2rem 2rem 2rem',
 
 })
 
@@ -53,7 +53,7 @@ const Button = styled.div({
 const P = styled.div({
   color:tokens.SemanticTextMuted,
   fontSize: '1rem',
-  marginBottom: '1rem'
+  marginBottom: '1.5rem'
 })
 
 const Komponent = styled.div({
@@ -63,12 +63,12 @@ const Komponent = styled.div({
 
 export default function Home() {
   return (
-   <Main>
-      <Card>
-        <h2> Design Tokens </h2>
-        <P>Sint fugiat sunt dolore anim ex deserunt et duis incididunt ut consequat reprehenderit fugiat id. Voluptate ipsum officia elit laborum sint qui officia ad dolore anim excepteur nulla est. Magna ea est occaecat nulla enim nostrud reprehenderit Lorem mollit adipisicing eiusmod dolore deserunt ea.</P>
-        <Button>Button</Button>
-      </Card>
-    </Main> 
+  <Main>
+    <Card>
+      <h2> Design Tokens </h2>
+      <P>Sint fugiat sunt dolore anim ex deserunt et duis incididunt ut consequat reprehenderit fugiat id. Voluptate ipsum officia elit laborum sint qui officia ad dolore anim excepteur nulla est. Magna ea est occaecat nulla enim nostrud reprehenderit Lorem mollit adipisicing eiusmod dolore deserunt ea.</P>
+      <Button>Button</Button>
+    </Card>
+  </Main> 
   );
 }
