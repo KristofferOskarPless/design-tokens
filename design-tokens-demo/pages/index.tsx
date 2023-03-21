@@ -32,7 +32,7 @@ const Card = styled.div({
   backgroundColor: tokens.SemanticBackgroundSurface,
   width: '20rem',
   height: 'Auto',
-  borderRadius: '0.5rem',
+  borderRadius: tokens.SemanticBorderRadiusUiCard,
   boxShadow: '0px 4px 8px 0px #00000012',
   padding: '1rem 1.5rem 2rem 1.5rem',
 
@@ -63,12 +63,12 @@ const Komponent = styled.div({
 
 export default function Home() {
   return (
-    <Main>
+   <Main>
       <Card>
         <h2> Design Tokens </h2>
-        <P>Sint fugiat sunt dolore anim ex deserunt et duis incididunt ut consequat reprehenderit fugiat id. Voluptate ipsum officia elit laborum sint qui officia ad dolore anim excepteur nulla est. Magna ea est occaecat nulla enim nostrud reprehenderit Lorem mollit adipisicing eiusmod dolore deserunt ea. Et non dolore esse aute id veniam elit consectetur.</P>
+        <P>Sint fugiat sunt dolore anim ex deserunt et duis incididunt ut consequat reprehenderit fugiat id. Voluptate ipsum officia elit laborum sint qui officia ad dolore anim excepteur nulla est. Magna ea est occaecat nulla enim nostrud reprehenderit Lorem mollit adipisicing eiusmod dolore deserunt ea.</P>
         <Button>Button</Button>
       </Card>
-    </Main>
+    </Main> 
   );
 }

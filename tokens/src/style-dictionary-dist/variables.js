@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Mar 2023 20:38:03 GMT
+ * Generated on Tue, 21 Mar 2023 10:55:49 GMT
  */
 
 export const SemanticTextDefault = "#111827";
@@ -15,7 +15,7 @@ export const SemanticBackgroundSurfacePrimary = "#1e3a8a";
 export const SemanticBackgroundMuted = "#f3f4f6";
 export const SemanticBackgroundSubtle = "#f9fafb";
 export const SemanticBackgroundCanvas = "#f9fafb";
-export const SemanticPrimaryDefault = "#3b82f6";
+export const SemanticPrimaryDefault = "#3B82F6";
 export const SemanticPrimaryMuted = "#60a5fa";
 export const SemanticPrimaryEmphasised = "#2563eb";
 export const SemanticPrimarySubtle = "#eff6ff";
@@ -25,7 +25,7 @@ export const SemanticSuccessFg = "#22c55e";
 export const SemanticSuccessEmphasised = "#14532d";
 export const SemanticSuccessMuted = "#4ade80";
 export const SemanticSuccessSubtle = "#dcfce7";
-export const SemanticInfoFg = "#3b82f6";
+export const SemanticInfoFg = "#3B82F6";
 export const SemanticInfoEmphasised = "#1e3a8a";
 export const SemanticInfoMuted = "#60a5fa";
 export const SemanticInfoSubtle = "#dbeafe";
